@@ -110,6 +110,7 @@ aplikasi digunakan untuk memasukkan karakteristik mahasiswa dan performa akademi
 - Enrolled
 - Graduate
 aplikasi juga menampilkan probabilitas dari masing-masing status berdasarkan hasil prediksi model.
+Link Streamlit : https://jaya-jaya-institut-student-prediction-bucwrhu6qceducserup3mq.streamlit.app/
 
 ## Conclusion
 
